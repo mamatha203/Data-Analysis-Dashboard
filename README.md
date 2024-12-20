@@ -38,5 +38,8 @@ The objective of this Hospital Emergency Room Visits Dashboard project is to pro
 - Performed data modelling to establish relationships between tables, ensuring seamless interaction between datasets for accurate and efficient reporting.
 - Added a calculated column to categorize patient visits by hour intervals, enabling analysis     of patient flow and wait times during specific time blocks.
 - Created a calculated column to categorize patient visits as "Admitted" or "Non-Admitted," allowing for better segmentation and analysis of ER performance.
+  ## Dashboard
+<a href="https://github.com/mamatha203/Data-Analysis-Dashboard/blob/main/screenshot.PNG">Dataset</a>
+
 
 
