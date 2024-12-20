@@ -17,6 +17,7 @@ The objective of this Hospital Emergency Room Visits Dashboard project is to pro
 • Matrix Containing Time Interval of Patient Visits (Days): Provides a matrix showing the frequency of patient visits by day, allowing detailed tracking of peak times and staffing needs.
 • Year Slicer: Filters data by year, allowing users to analyse trends and performance across multiple years.
 • Month Slicer: Filters data by month, enabling users to drill down into monthly performance metrics for detailed trend analysis.
+
 Dashboard Interaction
 ##Process
 • Split the combined date and time column into two separate columns (Date and Time) to allow for easier filtering and analysis based on each component.
