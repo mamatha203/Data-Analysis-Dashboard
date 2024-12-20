@@ -6,6 +6,7 @@ The objective of this Hospital Emergency Room Visits Dashboard project is to pro
 
 ## Key Performance Indicators
 • Patient Visits Card: Displays the total number of patient visits within a specified timeframe, providing an overview of the emergency room’s workload.
+
 • Average Wait Time Card: Shows the average wait time for patients in the emergency room, helping to assess service efficiency.
 • Satisfaction Score Card: Represents the average satisfaction score from patient feedback, giving insight into overall patient satisfaction with the care provided.
 • Patient Visits by Date Hierarchy (3 Line Charts): Tracks patient visits, average wait time, and satisfaction scores over time (daily, monthly, yearly), offering trend analysis for each metric.
@@ -19,7 +20,7 @@ The objective of this Hospital Emergency Room Visits Dashboard project is to pro
 • Month Slicer: Filters data by month, enabling users to drill down into monthly performance metrics for detailed trend analysis.
 
 Dashboard Interaction
-##Process
+## Process
 • Split the combined date and time column into two separate columns (Date and Time) to allow for easier filtering and analysis based on each component.
 • Combined the initial name and last name into a new column for full patient names, improving readability and simplifying data analysis.
 • Created a conditional column to categorize patients into different age groups, enabling more granular analysis of patient demographics.
