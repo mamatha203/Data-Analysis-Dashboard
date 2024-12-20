@@ -40,8 +40,6 @@ The objective of this Hospital Emergency Room Visits Dashboard project is to pro
 - Created a calculated column to categorize patient visits as "Admitted" or "Non-Admitted," allowing for better segmentation and analysis of ER performance.
 ## Dashboard
 ![screenshot](https://github.com/user-attachments/assets/3773fda6-de75-43fe-9f2c-daaf6b572594)
-
-<a href="https://github.com/mamatha203/Data-Analysis-Dashboard/blob/main/screenshot.PNG">Dataset</a>
 ## Project Insights
 The Average wait time was approximately 35.3 minutes, indicating a need for improvement to enhance patient flow. The average satisfaction score was 4.99 out of 10, suggesting moderate satisfaction and highlighting areas for improving patient experiences. A significant number of patients did not required referrals. Among those referred, the most common were General Practice and Orthopaedics followed by Physiotherapy and Cardiology The largest racial group was White followed by African American, multi racial and Asian patients. A significant number of patients declined to identify their race. Nearly half of the patients were admitted, while the rest were treated and released.
 ## Final Conclusion
